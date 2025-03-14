@@ -31,6 +31,7 @@
 ---
 
 #stily.css
+---
 Este código CSS define o estilo visual do site descrito anteriormente. Aqui está uma explicação detalhada dos estilos aplicados:
 ---
 
